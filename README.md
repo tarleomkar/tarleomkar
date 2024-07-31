@@ -6,7 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarleomkar&label=Profile%20views&color=0e75b6&style=flat" alt="tarleomkar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/tarleomkqr14625" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/tarleomkqr14625?logo=twitter&style=for-the-badge" alt="https://x.com/tarleomkqr14625" /></a> </p>
+<p align="left">
+  <a href="https://x.com/tarleomkqr14625" target="blank">
+    <img src="https://img.shields.io/twitter/follow/tarleomkqr14625?logo=twitter&style=for-the-badge" alt="tarleomkqr14625" />
+  </a>
+</p>
+
 
 - 🔭 I’m currently working on **MERN-Fusion: Combining MongoDB, Express, React, and Node.js for full-stack magic. 🚀🔗💻🌟N-Fusion**
 
